@@ -1,0 +1,10 @@
+mai 18, 2016 10:05:20 AM logger.LoggerFactory getLogger
+INFOS: log file created
+mai 18, 2016 10:05:21 AM logger.LoggerFactory getLogger
+INFOS: Logger ready
+mai 18, 2016 10:06:16 AM chat.server.ClientHandler run
+GRAVE: ClientHandler[john-nathan]: received or write failed, Closing client chat.server.ClientHandler@78ef483d
+mai 18, 2016 10:06:16 AM chat.server.InputOutputClient cleanup
+GRAVE: Client: unable to close client output stream
+mai 18, 2016 10:06:16 AM chat.server.InputOutputClient cleanup
+GRAVE: Relais brisé (pipe)
